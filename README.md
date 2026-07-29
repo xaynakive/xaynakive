@@ -35,9 +35,10 @@ i wander between silent tabs of VS Code at 2AM and the soft belief that bugs are
 
 - good at petting cats  
 - great at crying over code aesthetically  
-- average at debugging but excellent at suffering  
+- average at debugging but excellent at suffering
+- world-class at overthinking a single semicolon
 
-*(also Python, C, C++, JavaScript, Swift ... but shhh that ruins the magic)*
+*behind the chaos: Swift, Python, JavaScript, C/C++ · frontend & AI/ML · cybersecurity · building toward iOS....but shhh that ruins the magic*
 
 
 ## What You'll Find Here
