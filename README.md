@@ -64,11 +64,13 @@ i believe in the art of imperfection, the frame left unfocused, the dream half-r
 
 ## Current Status
 
-```python
-def glam_up(life):
-    while insomnia and cats:
+```swift
+func glamUp(life: Life) -> String {
+    while insomnia && cats {
         build("quiet systems and strange little worlds")
+    }
     return "something beautiful, eventually"
+}
 
-currently_executing = glam_up(life)
+let currentlyExecuting = glamUp(life: life)
 ```
