@@ -1,6 +1,6 @@
-
-
-# ✿ Xaynakive      
+<img width="2000" height="500" alt="Xaynakive Banner" src="https://github.com/user-attachments/assets/7186aaf6-41f2-45a2-8b07-fcbcd61b0967" />
+  
+# ✿ Xayna's Archive 
 
 **i create beautiful worlds that feel like memories you never had**
 
@@ -18,7 +18,7 @@ a tragicomedy told through existential error messages and debugging, misplaced s
 
 ## About Me
 
-hey, i'm **xayna** —  
+hey, i'm **Xayna** 
 
 21 · cat-coded · pink panther energy · philosophical chaos
 
@@ -33,12 +33,12 @@ i wander between silent tabs of VS Code at 2AM and the soft belief that bugs are
 
 `uhh idk but somehow things compile??`  
 
+*actually: Swift · Python · JavaScript · C/C++ · frontend · AI/ML · cybersecurity · iOS .... but shhh that ruins the magic*
+
 - good at petting cats  
 - great at crying over code aesthetically  
 - average at debugging but excellent at suffering
 - world-class at overthinking a single semicolon
-
-*behind the chaos: Swift, Python, JavaScript, C/C++ · frontend & AI/ML · cybersecurity · building toward iOS....but shhh that ruins the magic*
 
 
 ## What You'll Find Here
