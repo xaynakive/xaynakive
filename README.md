@@ -31,9 +31,9 @@ i wander between silent tabs of VS Code at 2AM and the soft belief that bugs are
 
 ## Skills
 
-`uhh idk but somehow things compile??`  
+Frontend · Swift · Python · JavaScript · C/C++ · HTML/CSS · AI/ML · ONNX · FastAPI · Docker · Cybersecurity
 
-*actually: Swift · Python · JavaScript · C/C++ · frontend · AI/ML · cybersecurity · iOS .... but shhh that ruins the magic*
+`somehow, against all odds, things compile.`
 
 - good at petting cats  
 - great at crying over code aesthetically  
