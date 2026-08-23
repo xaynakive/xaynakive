@@ -1,6 +1,6 @@
-<img width="2000" height="500" alt="Xaynakive Banner" src="https://github.com/user-attachments/assets/7186aaf6-41f2-45a2-8b07-fcbcd61b0967" />
+<img width="2000" height="500" alt="xaynakive banner" src="https://github.com/user-attachments/assets/b666cbbc-b2fe-4e10-946a-099b1d345b41" />
   
-# ✿ Xayna's Archive 
+# ✿ Xaynakive
 
 **i create beautiful worlds that feel like memories you never had**
 
