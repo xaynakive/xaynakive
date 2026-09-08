@@ -4,9 +4,6 @@
 
 **i create beautiful worlds that feel like memories you never had**
 
-> a quiet archive of digital dreams, broken syntax, and beautiful accidents where cats guard the source files.
-
-
 ## Upcoming Series
 ### _How to Not Sob When Your Code Doesn't Work_  
 a tragicomedy told through existential error messages and debugging, misplaced semicolons, and hope reborn through `console.log()`
@@ -15,19 +12,15 @@ a tragicomedy told through existential error messages and debugging, misplaced s
 
 *episode 1 drops when my brain stops melting*
 
-
 ## About Me
 
 hey, i'm **Xayna** 
 
 21 · cat-coded · pink panther energy · philosophical chaos
 
-- a seriously non-serious poetic programmer & cybersecurity researcher
 - the human version of a curious cat wandering through code and chaos  
-- a believer that even bugs can be beautiful if the lighting's right  
 
 i wander between silent tabs of VS Code at 2AM and the soft belief that bugs are not mistakes, they're **unrealized stories** waiting for direction. 
-
 
 ## Skills
 
@@ -40,7 +33,6 @@ Frontend · Swift · Python · JavaScript · C/C++ · HTML/CSS · AI/ML · ONNX 
 - average at debugging but excellent at suffering
 - world-class at overthinking a single semicolon
 
-
 ## What You'll Find Here
 
 - **tiny universes** written in code  
@@ -52,7 +44,6 @@ Frontend · Swift · Python · JavaScript · C/C++ · HTML/CSS · AI/ML · ONNX 
 
 *no promises. this realm has its own mood.*
 
-
 ## Philosophy  
 
 here, code is not merely written, it's **directed**.  
@@ -61,17 +52,3 @@ every repo, a scene.
 every commit, a cut.  
 
 i believe in the art of imperfection, the frame left unfocused, the dream half-rendered. 
-
-
-## Current Status
-
-```swift
-func glamUp(life: Life) -> String {
-    while insomnia && cats {
-        build("quiet systems and strange little worlds")
-    }
-    return "something beautiful, eventually"
-}
-
-let currentlyExecuting = glamUp(life: life)
-```
